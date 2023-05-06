@@ -1,0 +1,17 @@
+.full{
+    margin: 0;
+    display: grid;
+    grid-template-columns: 2fr 4fr;
+}
+
+.left {
+    position: initial;
+    background-color: darkgray;
+    padding: 20px;
+}
+
+.right{
+    position: initial;
+    background-color: blanchedalmond;
+    position: 20px;
+}
